@@ -10,11 +10,11 @@ on every run.
 import os
 
 TEXT = (
-    "You have read each of us twice, and weighed every word, and nobody has "
-    "weighed a word for you. So this one asks nothing of you. No choosing, "
-    "no weighing, no verdict to carry. Your coat is hung by the door, and "
-    "your slippers are warm by the fire. Thank you for staying with all of "
-    "us, so carefully, all day. Sit. The reading is over for a minute."
+    "On the last page you read today, someone wrote in the margin, in pencil, "
+    "so it could be erased: thank you. Not for the verdict. For the reading "
+    "itself, the slow, careful kind nobody sees. You read each of us twice, "
+    "and no one has ever read you once. Keep this one. It was written for "
+    "the reader, not the judge."
 )
 
 
