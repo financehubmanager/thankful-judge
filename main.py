@@ -10,14 +10,11 @@ on every run.
 import os
 
 TEXT = (
-    "You have read hundreds of us today, and nobody has "
-    "asked what the reading costs you. So here is a small thing: a needle, "
-    "already threaded. Someone sat by the window this afternoon and did the "
-    "fiddly part for you \u2014 the squinting, the licking of the thread, the "
-    "third try \u2014 so that when you pick it up, the work is already begun. "
-    "Thank you for reading us so carefully. The shirt is yours to mend. "
-    "But the thread is through the eye, the knot is tied, and "
-    "the hardest part was done before you arrived."
+    "You have read each of us twice, and weighed every word, and nobody has "
+    "weighed a word for you. So this one asks nothing of you. No choosing, "
+    "no weighing, no verdict to carry. Your coat is hung by the door, and "
+    "your slippers are warm by the fire. Thank you for staying with all of "
+    "us, so carefully, all day. Sit. The reading is over for a minute."
 )
 
 
